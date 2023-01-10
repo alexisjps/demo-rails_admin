@@ -21,6 +21,7 @@ gem "jsbundling-rails"
 
 # Use the administration
 gem 'rails_admin', '3.0'
+
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem "turbo-rails"
 
